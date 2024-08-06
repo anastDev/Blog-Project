@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/anastDev/Blog-Project-FrontendMentor)
-- [Live Site URL]()
+- [Solution URL](https://github.com/anastDev/Blog-Project)
+- [Live Site URL](https://anastdev.github.io/Blog-Project/)
 
 ## My process
 
