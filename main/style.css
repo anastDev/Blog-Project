@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  --background-color: hsl(47, 88%, 63%);
+  --card-color: hsl(0, 0%, 100%);
+  --text-color: hsl(0, 0%, 7%);
+  --secondary-text-color: hsl(0, 0%, 42%);
+  --primary-color: hsl(228, 45%, 44%);
+  font-family: "Figtree", sans-serif;
+}
+
+body {
+  background-color: var(--background-color);
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: space-evenly;
+  align-items: center;
+}
+
+.card {
+  border: 1px solid var(--text-color);
+  border-radius: 1.4rem;
+  width: 45vh;
+  padding: 1.6rem;
+  margin-bottom: 1rem;
+  background-color: var(--card-color);
+  box-shadow: 8px 8px var(--text-color);
+}
+
+.card-img-top {
+  width: 100%;
+  border-radius: 0.65em;
+}
+
+.card-title,
+.lecturer {
+  font-weight: 800;
+}
+
+.tag {
+  background-color: var(--background-color);
+  display: inline-block;
+  padding: 0.5rem 0.75rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+}
+
+.tag {
+  font-weight: 500;
+}
+
+.publication-date {
+  color: var(--text-color);
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.card-title {
+  font-size: 1.3em;
+  margin-bottom: 1rem;
+}
+
+.card-title:hover {
+  color: var(--background-color);
+}
+
+.card-text {
+  color: var(--secondary-text-color);
+  margin-bottom: 1.4rem;
+  font-weight: 500;
+  font-size: 1em;
+  line-height: 1.4em;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+}
+
+.card-footer img {
+  width: 2.25em;
+  height: auto;
+  padding-right: 0.75em;
+}
+
+.attribution p {
+  font-size: 1rem;
+}
+
+.attribution a {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+@media (max-width: 375px) {
+  .card {
+    width: 80%;
+  }
+
+  .card-title {
+    font-size: 1.3rem;
+  }
+  .card-text {
+    font-size: 0.95rem;
+  }
+}
