@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/anastDev/Blog-Project.git)
-- [Live Site URL](https://anastdev.github.io/Blog-Project-FrontendMentor/)
+- [Solution URL](https://anastdev.github.io/Blog-Project-FrontendMentor/)
+- [Live Site URL]()
 
 ## My process
 
@@ -37,6 +37,7 @@ Users should be able to:
 - Flexbox
 - Media Query
 - Variables
+- Bootstrap
 
 ### What I learned
 
@@ -66,7 +67,10 @@ The use of "em" and "rem" units was quite useful in this project, and I plan to 
 ### Useful resources
 
 - [Youtube - Slaying The Dragon](https://www.youtube.com/@slayingthedragon) - I found this YouTube channel incredibly helpful for learning CSS Flexbox and Responsive CSS. Each concept was explained clearly and was easy to understand, making it a valuable resource for anyone looking to improve their CSS skills.
+
 - [W3schools](https://www.w3schools.com/css/default.aspm) - On this website, I was able to explore elements and learn how to effectively use them in my code. Very beginner-friendly.
+
+- [Bootstrap](https://getbootstrap.com/docs/4.0/components/card/) - Reviewed the documentation and used it for reference in building the card UI.
 
 ## Author
 
