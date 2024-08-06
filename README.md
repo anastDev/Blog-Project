@@ -1,5 +1,3 @@
-# Blog Project - FrontendMentor
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,7 +26,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/anastDev/Blog-Project.git)
-- [Live Site URL](https://anastdev.github.io/Blog-Project/)
+- [Live Site URL](https://anastdev.github.io/Blog-Project-FrontendMentor/)
 
 ## My process
 
