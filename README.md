@@ -1,3 +1,5 @@
+# Blog Project - FrontendMentor
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -25,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- [Solution URL](https://github.com/anastDev/Blog-Project.git)
+- [Live Site URL](https://anastdev.github.io/Blog-Project/)
 
 ## My process
 
@@ -41,6 +43,7 @@ Users should be able to:
 ### What I learned
 
 In this project, I had the chance to learn new concepts, including the hover effect and the use of "em" and "rem" units.
+
 ```
 .card-title:hover {
   color: var(--background-color);
@@ -58,7 +61,6 @@ In particular, I learned how to implement the hover effect in my code, as well a
 
 Moving forward, I plan to continue focusing on refining these skills and exploring other techniques to enhance my development process.
 
-
 ### Continued development
 
 The use of "em" and "rem" units was quite useful in this project, and I plan to continue implementing them in future work. However, I’m still not entirely satisfied with my understanding and usage of these units, as I’m not yet fully comfortable with them. My goal is to become more confident and proficient with these techniques in upcoming projects.
@@ -67,7 +69,6 @@ The use of "em" and "rem" units was quite useful in this project, and I plan to 
 
 - [Youtube - Slaying The Dragon](https://www.youtube.com/@slayingthedragon) - I found this YouTube channel incredibly helpful for learning CSS Flexbox and Responsive CSS. Each concept was explained clearly and was easy to understand, making it a valuable resource for anyone looking to improve their CSS skills.
 - [W3schools](https://www.w3schools.com/css/default.aspm) - On this website, I was able to explore elements and learn how to effectively use them in my code. Very beginner-friendly.
-
 
 ## Author
 
